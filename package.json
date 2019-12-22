@@ -1,0 +1,28 @@
+{
+  "name": "react-spring-3d-carousel",
+  "description": "Carosuel",
+  "version": "0.1.0",
+  "homepage": "https://github.com/Anas%20Mohammed/react-spring-3d-carousel",
+  "author": "kerke3 (https://github.com/kerke3/react-spring-3d-carousel.git)",
+  "repository": "Anas%20Mohammed/react-spring-3d-carousel",
+  "bugs": {
+    "url": "https://github.com/Anas%20Mohammed/react-spring-3d-carousel/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "3d",
+    "carousel",
+    "react",
+    "spring"
+  ]
+}
